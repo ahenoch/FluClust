@@ -924,8 +924,8 @@
     <rect
        x="-20"
        y="85"
-       width="50"
-       height="7.1673079"
+       width="53.73352"
+       height="7.20451"
        id="rect6807" />
     <rect
        x="-20"
@@ -933,6 +933,12 @@
        width="50"
        height="7.1673079"
        id="rect6809" />
+    <rect
+       x="-20"
+       y="85"
+       width="50"
+       height="7.1673079"
+       id="rect1398" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -942,18 +948,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5376908"
-     inkscape:cx="275.08782"
-     inkscape:cy="1132.2173"
+     inkscape:cx="779.74063"
+     inkscape:cy="933.54269"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      showborder="true"
      showguides="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1163"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-width="1858"
+     inkscape:window-height="1136"
+     inkscape:window-x="62"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="false">
@@ -1110,7 +1116,7 @@
        transform="translate(63.219436,87.357269)"><tspan
          x="-20"
          y="38.745505"
-         id="tspan5049">sequence dictionary</tspan></text>
+         id="tspan14069">sequence dictionary</tspan></text>
     <text
        xml:space="preserve"
        id="text1277"
@@ -1120,7 +1126,7 @@
        transform="translate(71.080447,107.83269)"><tspan
          x="-20"
          y="58.745505"
-         id="tspan5051">k-mer matrix</tspan></text>
+         id="tspan14071">k-mer matrix</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1439"
@@ -1135,7 +1141,7 @@
        transform="translate(61.767328,117.83269)"><tspan
          x="-20"
          y="88.745505"
-         id="tspan5053">reduced k-mer matrix</tspan></text>
+         id="tspan14073">reduced k-mer matrix</tspan></text>
     <text
        xml:space="preserve"
        id="text1590"
@@ -1145,7 +1151,7 @@
        transform="translate(64.995866,187.83269)"><tspan
          x="-20"
          y="98.745505"
-         id="tspan5055">cluster dataframe</tspan></text>
+         id="tspan14075">cluster dataframe</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1662"
@@ -1162,7 +1168,7 @@
        transform="translate(73.539211,227.83269)"><tspan
          x="-20"
          y="98.745505"
-         id="tspan5057">clustertree</tspan></text>
+         id="tspan14077">clustertree</tspan></text>
     <rect
        id="rect2624"
        width="50"
@@ -1179,7 +1185,7 @@
        transform="translate(78.418495,7.7954853)"><tspan
          x="-20"
          y="38.745505"
-         id="tspan5059">FASTA</tspan></text>
+         id="tspan14079">FASTA</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect10758"
@@ -1194,7 +1200,7 @@
        transform="translate(144.54235,117.83269)"><tspan
          x="-20"
          y="88.745505"
-         id="tspan5061">standard HDBSCAN</tspan></text>
+         id="tspan14081">standard HDBSCAN</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect14073"
@@ -1243,7 +1249,7 @@
        transform="translate(145.66373,77.422382)"><tspan
          x="-20"
          y="88.745505"
-         id="tspan5063">normalization (L1)</tspan></text>
+         id="tspan14083">normalization (L1)</tspan></text>
     <text
        xml:space="preserve"
        id="text14161"
@@ -1251,7 +1257,7 @@
        transform="translate(240.60441,77.795485)"><tspan
          x="-20"
          y="88.745505"
-         id="tspan5065">PCA</tspan></text>
+         id="tspan14085">PCA</tspan></text>
     <text
        xml:space="preserve"
        id="text14167"
@@ -1259,7 +1265,7 @@
        transform="translate(305.66373,77.583612)"><tspan
          x="-20"
          y="88.745505"
-         id="tspan5067">normalization (L2)</tspan></text>
+         id="tspan14087">normalization (L2)</tspan></text>
     <text
        xml:space="preserve"
        id="text15795"
@@ -1267,7 +1273,7 @@
        transform="translate(149.98904,-42.16731)"><tspan
          x="-20"
          y="88.745505"
-         id="tspan5069">SeqIO Iterator</tspan></text>
+         id="tspan14089">SeqIO Iterator</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect16513"
@@ -1282,7 +1288,7 @@
        transform="translate(154.69573,-2.20452)"><tspan
          x="-20"
          y="88.745505"
-         id="tspan5071">accession</tspan></text>
+         id="tspan14091">accession</tspan></text>
     <text
        xml:space="preserve"
        id="text16531"
@@ -1290,7 +1296,7 @@
        transform="translate(311.19724,37.832692)"><tspan
          x="-20"
          y="88.745505"
-         id="tspan5073">k-mer vector</tspan></text>
+         id="tspan14093">k-mer vector</tspan></text>
     <rect
        id="rect16549"
        width="50"
@@ -1307,7 +1313,7 @@
        transform="translate(70.19368,47.35727)"><tspan
          x="-20"
          y="38.745505"
-         id="tspan5075">accession List</tspan></text>
+         id="tspan14095">accession List</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect16583"
@@ -1322,7 +1328,7 @@
        transform="translate(227.40419,37.422382)"><tspan
          x="-20"
          y="88.745505"
-         id="tspan5077">k-mer dictionary</tspan></text>
+         id="tspan14097">k-mer dictionary</tspan></text>
     <text
        xml:space="preserve"
        id="text19345"
@@ -1344,7 +1350,7 @@
        transform="translate(64.913183,147.83269)"><tspan
          x="-20"
          y="98.745505"
-         id="tspan5079">linkage dataframe</tspan></text>
+         id="tspan14099">linkage dataframe</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect21335"
@@ -1366,7 +1372,7 @@
        transform="translate(235.17115,157.83269)"><tspan
          x="-20"
          y="88.745505"
-         id="tspan5081">ete3 tree </tspan></text>
+         id="tspan14101">ete3 tree </tspan></text>
     <text
        xml:space="preserve"
        id="text22051"
@@ -1374,7 +1380,7 @@
        transform="translate(146.99285,197.42238)"><tspan
          x="-20"
          y="88.745505"
-         id="tspan5083">pruned ete3 tree</tspan></text>
+         id="tspan14103">pruned ete3 tree</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect22061"
@@ -1389,7 +1395,7 @@
        transform="translate(145.58105,157.42238)"><tspan
          x="-20"
          y="88.745505"
-         id="tspan5085">newick translation</tspan></text>
+         id="tspan14105">newick translation</tspan></text>
     <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse23228"
@@ -1783,7 +1789,7 @@
     </g>
     <g
        id="g24087"
-       transform="translate(80,-40)">
+       transform="translate(160,-40)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.266491;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path11400"
@@ -2007,7 +2013,7 @@
        transform="translate(232.04576,-42.577618)"><tspan
          x="-20"
          y="88.745505"
-         id="tspan5087">quality filter</tspan></text>
+         id="tspan14107">quality filter</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker17523)"
        d="m 170,45 h 30"
@@ -2031,9 +2037,9 @@
        transform="translate(200.07738,-0.749445)"><tspan
          x="-90"
          y="76.242517"
-         id="tspan5091"><tspan
+         id="tspan14111"><tspan
            style="shape-inside:url(#rect15031)"
-           id="tspan5089">Vectorization</tspan></tspan></text>
+           id="tspan14109">Vectorization</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 110,40 V 30 h 10"
@@ -2052,9 +2058,9 @@
        transform="translate(199.44004,-40.749445)"><tspan
          x="-90"
          y="76.242517"
-         id="tspan5095"><tspan
+         id="tspan14115"><tspan
            style="shape-inside:url(#rect16597)"
-           id="tspan5093">Preprocessing</tspan></tspan></text>
+           id="tspan14113">Preprocessing</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 30,40 V 30 h 10"
@@ -2073,9 +2079,9 @@
        transform="translate(119.44004,-40.966486)"><tspan
          x="-90"
          y="76.242517"
-         id="tspan5099"><tspan
+         id="tspan14119"><tspan
            style="shape-inside:url(#rect15035)"
-           id="tspan5097">Input</tspan></tspan></text>
+           id="tspan14117">Input</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 30,160 V 150 H 40"
@@ -2094,9 +2100,9 @@
        transform="translate(119.73631,79.126539)"><tspan
          x="-90"
          y="76.242517"
-         id="tspan5103"><tspan
+         id="tspan14123"><tspan
            style="shape-inside:url(#rect17836)"
-           id="tspan5101">Output</tspan></tspan></text>
+           id="tspan14121">Output</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 110,160 v -10 h 10"
@@ -2137,9 +2143,9 @@
        transform="translate(199.44004,79.250562)"><tspan
          x="-90"
          y="76.242517"
-         id="tspan5107"><tspan
+         id="tspan14127"><tspan
            style="shape-inside:url(#rect14641)"
-           id="tspan5105">Postprocessing</tspan></tspan></text>
+           id="tspan14125">Postprocessing</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text12705"
@@ -2147,9 +2153,9 @@
        transform="translate(199.73631,119.25056)"><tspan
          x="-90"
          y="76.242517"
-         id="tspan5111"><tspan
+         id="tspan14131"><tspan
            style="shape-inside:url(#rect12707)"
-           id="tspan5109">Clustering</tspan></tspan></text>
+           id="tspan14129">Clustering</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text17838"
@@ -2157,12 +2163,12 @@
        transform="translate(200.15317,159.25056)"><tspan
          x="-90"
          y="76.242517"
-         id="tspan5115"><tspan
+         id="tspan14135"><tspan
            style="shape-inside:url(#rect17840)"
-           id="tspan5113">Treebuilding</tspan></tspan></text>
+           id="tspan14133">Treebuilding</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker22759)"
-       d="m 225,210 v 15 L 60,225 H 35 l -2e-6,39.99999 h 30.000001 v 15"
+       d="m 305,210 v 15 L 60,225 H 35 l -2e-6,39.99999 h 30.000001 v 15"
        id="path38721"
        sodipodi:nodetypes="ccccccc" />
     <path
@@ -2202,7 +2208,7 @@
        transform="translate(142.67167,37.422382)"><tspan
          x="-20"
          y="88.745505"
-         id="tspan5117">k-mer and mutations</tspan></text>
+         id="tspan14137">k-mer and mutations</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6791"
@@ -2214,10 +2220,10 @@
        xml:space="preserve"
        id="text6797"
        style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect6807)"
-       transform="translate(231.26648,117.79549)"><tspan
+       transform="translate(222.41742,117.79549)"><tspan
          x="-20"
          y="88.745505"
-         id="tspan5119">hybrid cutoff</tspan></text>
+         id="tspan14139">reverse e exploration</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker14181)"
        d="m 170,205 h 30"
@@ -2252,5 +2258,25 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 145,210 v 15"
        id="path10443" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1390"
+       width="50"
+       height="10"
+       x="280"
+       y="200" />
+    <text
+       xml:space="preserve"
+       id="text1394"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1398)"
+       transform="translate(309.29141,117.79549)"><tspan
+         x="-20"
+         y="88.745505"
+         id="tspan14141">hybrid e cutoff</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker14181)"
+       d="m 250,205 h 30"
+       id="path1396"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
