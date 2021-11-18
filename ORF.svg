@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="594mm"
    height="420mm"
    viewBox="0 0 594 420"
    version="1.1"
    id="svg5"
    sodipodi:docname="ORF.svg"
-   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    inkscape:export-filename="/home/ahenoch/Desktop/ORF.png"
    inkscape:export-xdpi="95.190002"
-   inkscape:export-ydpi="95.190002"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   inkscape:export-ydpi="95.190002">
+  <metadata
+     id="metadata260">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
@@ -29,17 +41,18 @@
      inkscape:snap-grids="true"
      inkscape:object-paths="false"
      inkscape:snap-intersection-paths="true"
-     inkscape:zoom="1.2810466"
-     inkscape:cx="273.99472"
-     inkscape:cy="157.29326"
-     inkscape:window-width="1858"
-     inkscape:window-height="1136"
-     inkscape:window-x="62"
-     inkscape:window-y="27"
+     inkscape:zoom="0.45291837"
+     inkscape:cx="273.50973"
+     inkscape:cy="790.12431"
+     inkscape:window-width="1680"
+     inkscape:window-height="1013"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showborder="true"
-     inkscape:showpageshadow="true">
+     inkscape:showpageshadow="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid824"
@@ -49,6 +62,18 @@
   </sodipodi:namedview>
   <defs
      id="defs2">
+    <rect
+       x="5"
+       y="245"
+       width="49.312069"
+       height="33.15803"
+       id="rect1143" />
+    <rect
+       x="125"
+       y="240"
+       width="15"
+       height="15"
+       id="rect1119" />
     <rect
        x="396.85039"
        y="755.90551"
@@ -792,6 +817,18 @@
        width="75.590553"
        height="37.795277"
        id="rect11273" />
+    <rect
+       x="245.6693"
+       y="264.56693"
+       width="37.795277"
+       height="37.795277"
+       id="rect1131" />
+    <rect
+       x="245.6693"
+       y="264.56693"
+       width="37.795277"
+       height="37.795277"
+       id="rect1139" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -810,6 +847,41 @@
      inkscape:label="Drawing"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1163"
+       width="65"
+       height="35"
+       x="100"
+       y="375" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 44.999999,304.99999 h 25"
+       id="path1147" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 94.999999,304.99999 h -25"
+       id="path1149" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 120,330 94.999999,304.99999"
+       id="path1151" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 145,330 H 120"
+       id="path1153" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 170,330 H 145"
+       id="path1157" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 195,330 H 170"
+       id="path1159" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 220,330 H 195"
+       id="path1161" />
     <g
        id="g40298">
       <circle
@@ -822,26 +894,25 @@
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,6.6854939,17.840025)"
          id="text36931"
-         style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect36933)"><tspan
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect36933);"><tspan
            x="396.84961"
-           y="770.0625"
-           id="tspan1382">non-Orf</tspan></text>
+           y="770.0625"><tspan>non-Orf</tspan></tspan></text>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5875, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 120,290 25,25"
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5875, 1.58749999999999991;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 120,305 25,25"
        id="path9273" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 95,290 h 25"
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 95,305 h 25"
        id="path9158" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 120,315 H 95"
+       d="M 120,330 H 95"
        id="path8908" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5875, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 45,315 h 50 v 0"
+       d="m 45,330 h 50 v 0"
        id="path37634"
        sodipodi:nodetypes="ccc" />
     <rect
@@ -850,29 +921,24 @@
        width="20"
        height="10"
        x="4.9999952"
-       y="285" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 45,290 h 50 l 25,25 h 75 25"
-       id="path15029"
-       sodipodi:nodetypes="ccccc" />
+       y="300" />
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="rect11263"
        width="20"
        height="10"
        x="4.9999952"
-       y="310" />
+       y="325" />
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text90827"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect90829)" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect90829);" />
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text124364"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect124366)" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect124366);" />
     <circle
        style="fill:#ccffaa;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle227485"
@@ -884,20 +950,16 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-231.50685,-204.85036)"
        id="text227465"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect227529)"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect227529);"
        x="18.902344"
        y="0"><tspan
-         x="930.69824"
-         y="845.65234"
-         id="tspan1386"><tspan
-           style="text-align:center;text-anchor:middle"
-           id="tspan1384">Start
+         x="930.67871"
+         y="845.65234"><tspan
+           style="text-align:center;text-anchor:middle">Start
 </tspan></tspan><tspan
-         x="933.78418"
-         y="865.65234"
-         id="tspan1390"><tspan
-           style="text-align:center;text-anchor:middle"
-           id="tspan1388">ORF</tspan></tspan></text>
+         x="933.77246"
+         y="865.65234"><tspan
+           style="text-align:center;text-anchor:middle">ORF</tspan></tspan></text>
     <circle
        style="fill:#e9afaf;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle227469"
@@ -911,23 +973,19 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-32.667763,-204.85036)"
        id="text227473"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect227531)"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect227531);"
        x="17.300781"
        y="0"
        inkscape:export-filename="/home/ahenoch/Desktop/ORF.png"
        inkscape:export-xdpi="95.190002"
        inkscape:export-ydpi="95.190002"><tspan
          x="936.6875"
-         y="845.65234"
-         id="tspan1394"><tspan
-           style="text-align:center;text-anchor:middle"
-           id="tspan1392">Stop
+         y="845.65234"><tspan
+           style="text-align:center;text-anchor:middle">Stop
 </tspan></tspan><tspan
-         x="938.41797"
-         y="865.65234"
-         id="tspan1398"><tspan
-           style="text-align:center;text-anchor:middle"
-           id="tspan1396">ORF</tspan></tspan></text>
+         x="938.40625"
+         y="865.65234"><tspan
+           style="text-align:center;text-anchor:middle">ORF</tspan></tspan></text>
     <g
        id="g40634">
       <circle
@@ -940,20 +998,16 @@
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-187.48725,-4.850355)"
          id="text227479"
-         style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect227533)"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect227533);"
          x="33.609375"
          y="0"><tspan
            x="1521.6602"
-           y="845.65234"
-           id="tspan1402"><tspan
-             style="text-align:center;text-anchor:middle"
-             id="tspan1400">Stop
+           y="845.65234"><tspan
+             style="text-align:center;text-anchor:middle">Stop
 </tspan></tspan><tspan
-           x="1505.2461"
-           y="865.65234"
-           id="tspan1406"><tspan
-             style="text-align:center;text-anchor:middle"
-             id="tspan1404">non-ORF</tspan></tspan></text>
+           x="1505.2227"
+           y="865.65234"><tspan
+             style="text-align:center;text-anchor:middle">non-ORF</tspan></tspan></text>
     </g>
     <circle
        style="fill:#ffeeaa;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
@@ -965,14 +1019,12 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-131.41383,-202.20452)"
        id="text227489"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect227535)"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect227535);"
        x="18.902344"
        y="0"><tspan
-         x="933.78418"
-         y="845.65234"
-         id="tspan1410"><tspan
-           style="text-align:center;text-anchor:middle"
-           id="tspan1408">ORF</tspan></tspan></text>
+         x="933.77246"
+         y="845.65234"><tspan
+           style="text-align:center;text-anchor:middle">ORF</tspan></tspan></text>
     <g
        id="g40652">
       <circle
@@ -998,13 +1050,12 @@
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-253.62669,-177.2325)"
          id="text227499"
-         style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect227537)"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect227537);"
          inkscape:export-filename="/home/ahenoch/Desktop/ORF.png"
          inkscape:export-xdpi="95.190002"
          inkscape:export-ydpi="95.190002"><tspan
            x="1001.5742"
-           y="1129.1172"
-           id="tspan1412">Frame 1</tspan></text>
+           y="1129.1172"><tspan>Frame 1</tspan></tspan></text>
     </g>
     <g
        id="g40626">
@@ -1018,20 +1069,16 @@
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-387.48725,-4.850355)"
          id="text227523"
-         style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect227543)"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect227543);"
          x="33.609375"
          y="0"><tspan
-           x="1520.3047"
-           y="845.65234"
-           id="tspan1416"><tspan
-             style="text-align:center;text-anchor:middle"
-             id="tspan1414">Start
+           x="1520.2852"
+           y="845.65234"><tspan
+             style="text-align:center;text-anchor:middle">Start
 </tspan></tspan><tspan
-           x="1505.2461"
-           y="865.65234"
-           id="tspan1420"><tspan
-             style="text-align:center;text-anchor:middle"
-             id="tspan1418">non-ORF</tspan></tspan></text>
+           x="1505.2227"
+           y="865.65234"><tspan
+             style="text-align:center;text-anchor:middle">non-ORF</tspan></tspan></text>
     </g>
     <g
        id="g40646">
@@ -1058,13 +1105,12 @@
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-153.36339,-177.2325)"
          id="text229483"
-         style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect229487)"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect229487);"
          inkscape:export-filename="/home/ahenoch/Desktop/ORF.png"
          inkscape:export-xdpi="95.190002"
          inkscape:export-ydpi="95.190002"><tspan
            x="1001.5742"
-           y="1129.1172"
-           id="tspan1422">Frame 2</tspan></text>
+           y="1129.1172"><tspan>Frame 2</tspan></tspan></text>
     </g>
     <g
        id="g40640">
@@ -1091,13 +1137,12 @@
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-53.65252,-177.20459)"
          id="text229499"
-         style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect229503)"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect229503);"
          inkscape:export-filename="/home/ahenoch/Desktop/ORF.png"
          inkscape:export-xdpi="95.190002"
          inkscape:export-ydpi="95.190002"><tspan
            x="1001.5742"
-           y="1129.1172"
-           id="tspan1424">Frame 3</tspan></text>
+           y="1129.1172"><tspan>Frame 3</tspan></tspan></text>
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
@@ -1249,310 +1294,338 @@
        style="fill:#ccffaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="path9376"
        cx="44.999981"
-       cy="290"
+       cy="305"
        r="5" />
     <circle
        style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle9631"
        cx="44.999981"
-       cy="315"
+       cy="330"
        r="5" />
     <circle
        style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle9633"
        cx="44.999981"
-       cy="340"
+       cy="355"
        r="5" />
     <circle
        style="fill:#e9afaf;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle9635"
        cx="69.999977"
-       cy="340"
+       cy="355"
        r="5" />
     <circle
        style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle9637"
        cx="69.999977"
-       cy="315"
+       cy="330"
        r="5" />
     <circle
        style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle9639"
        cx="69.999977"
-       cy="290"
+       cy="305"
        r="5" />
     <circle
        style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle9999"
        cx="94.999977"
-       cy="290"
+       cy="305"
        r="5" />
     <circle
        style="fill:#ccffaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10001"
        cx="94.999977"
-       cy="315"
+       cy="330"
        r="5" />
     <circle
        style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10003"
        cx="94.999977"
-       cy="340"
+       cy="355"
        r="5" />
     <circle
-       style="fill:#e9afaf;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
+       style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10005"
        cx="119.99998"
-       cy="340"
+       cy="355"
        r="5" />
     <circle
        style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10007"
        cx="119.99998"
-       cy="315"
+       cy="330"
        r="5" />
     <circle
        style="fill:#e9afaf;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10009"
        cx="119.99998"
-       cy="290"
+       cy="305"
        r="5" />
     <circle
        style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10013"
        cx="144.99998"
-       cy="290"
+       cy="305"
        r="5" />
     <circle
        style="fill:#ccffaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10015"
        cx="144.99998"
-       cy="315"
+       cy="330"
        r="5" />
     <circle
        style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10017"
        cx="144.99998"
-       cy="340"
+       cy="355"
        r="5" />
     <circle
        style="fill:#ccffaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10019"
        cx="169.99998"
-       cy="340"
+       cy="355"
        r="5" />
     <circle
        style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10021"
        cx="169.99998"
-       cy="315"
+       cy="330"
        r="5" />
     <circle
        style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10023"
        cx="169.99998"
-       cy="290"
+       cy="305"
        r="5" />
     <circle
        style="fill:#ccffaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10027"
        cx="194.99998"
-       cy="290"
+       cy="305"
        r="5" />
     <circle
        style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10029"
        cx="194.99998"
-       cy="315"
+       cy="330"
        r="5" />
     <circle
        style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10031"
        cx="194.99998"
-       cy="340"
+       cy="355"
        r="5" />
     <circle
        style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10033"
        cx="219.99998"
-       cy="340"
+       cy="355"
        r="5" />
     <circle
        style="fill:#e9afaf;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10035"
        cx="219.99998"
-       cy="315"
+       cy="330"
        r="5" />
     <circle
        style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="circle10037"
        cx="219.99998"
-       cy="290"
+       cy="305"
        r="5" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-258.62671,-7.2325)"
+       transform="matrix(0.26458333,0,0,0.26458333,-258.62671,7.7675)"
        id="text11151"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect11153)"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect11153);"
        inkscape:export-filename="/home/ahenoch/Desktop/ORF.png"
        inkscape:export-xdpi="95.190002"
        inkscape:export-ydpi="95.190002"><tspan
          x="1001.5742"
-         y="1129.1172"
-         id="tspan1426">Frame 1</tspan></text>
+         y="1129.1172"><tspan>Frame 1</tspan></tspan></text>
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="rect11271"
        width="20"
        height="10"
        x="4.9999952"
-       y="335" />
+       y="350" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-258.62671,17.7675)"
+       transform="matrix(0.26458333,0,0,0.26458333,-258.62671,32.7675)"
        id="text11261"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect11265)"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect11265);"
        inkscape:export-filename="/home/ahenoch/Desktop/ORF.png"
        inkscape:export-xdpi="95.190002"
        inkscape:export-ydpi="95.190002"><tspan
          x="1001.5742"
-         y="1129.1172"
-         id="tspan1428">Frame 2</tspan></text>
+         y="1129.1172"><tspan>Frame 2</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-258.62671,42.7675)"
+       transform="matrix(0.26458333,0,0,0.26458333,-258.62671,57.7675)"
        id="text11269"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect11273)"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect11273);"
        inkscape:export-filename="/home/ahenoch/Desktop/ORF.png"
        inkscape:export-xdpi="95.190002"
        inkscape:export-ydpi="95.190002"><tspan
          x="1001.5742"
-         y="1129.1172"
-         id="tspan1430">Frame 3</tspan></text>
+         y="1129.1172"><tspan>Frame 3</tspan></tspan></text>
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="rect15133"
        width="10"
        height="10"
        x="39.999981"
-       y="260" />
+       y="275" />
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="rect15215"
        width="10"
        height="10"
        x="64.999977"
-       y="260" />
+       y="275" />
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="rect15217"
        width="10"
        height="10"
        x="114.99998"
-       y="260" />
+       y="275" />
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="rect15219"
        width="10"
        height="10"
        x="89.999977"
-       y="260" />
+       y="275" />
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="rect15221"
        width="10"
        height="10"
        x="139.99998"
-       y="260" />
+       y="275" />
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="rect15223"
        width="10"
        height="10"
        x="164.99998"
-       y="260" />
+       y="275" />
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="rect15225"
        width="10"
        height="10"
        x="189.99998"
-       y="260" />
+       y="275" />
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
        id="rect15227"
        width="10"
        height="10"
        x="214.99998"
-       y="260" />
+       y="275" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-21.38407,192.79769)"
+       transform="matrix(0.26458333,0,0,0.26458333,-21.38407,207.79769)"
        id="text17825"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect17827)"><tspan
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect17827);"><tspan
          x="245.66992"
-         y="278.72266"
-         id="tspan1432">1</tspan></text>
+         y="278.72266"><tspan>1</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-21.29004,192.8256)"
+       transform="matrix(0.26458333,0,0,0.26458333,-21.29004,207.8256)"
        id="text20199"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect20201)"><tspan
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect20201);"><tspan
          x="340.1582"
-         y="278.72266"
-         id="tspan1434">2</tspan></text>
+         y="278.72266"><tspan>2</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-21.33864,192.79562)"
+       transform="matrix(0.26458333,0,0,0.26458333,-21.33864,207.79562)"
        id="text22273"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect22275)"><tspan
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect22275);"><tspan
          x="434.64648"
-         y="278.72266"
-         id="tspan1436">3</tspan></text>
+         y="278.72266"><tspan>3</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-21.33143,192.79769)"
+       transform="matrix(0.26458333,0,0,0.26458333,-21.33143,207.79769)"
        id="text24677"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect24679)"><tspan
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect24679);"><tspan
          x="529.13477"
-         y="278.72266"
-         id="tspan1438">4</tspan></text>
+         y="278.72266"><tspan>4</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-21.32473,192.76772)"
+       transform="matrix(0.26458333,0,0,0.26458333,-21.32473,207.76772)"
        id="text26905"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect26907)"><tspan
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect26907);"><tspan
          x="623.62109"
-         y="278.72266"
-         id="tspan1440">5</tspan></text>
+         y="278.72266"><tspan>5</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-21.36093,192.79562)"
+       transform="matrix(0.26458333,0,0,0.26458333,-21.36093,207.79562)"
        id="text29815"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect29817)"><tspan
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect29817);"><tspan
          x="718.10938"
-         y="278.72266"
-         id="tspan1442">6</tspan></text>
+         y="278.72266"><tspan>6</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-21.33925,192.79769)"
+       transform="matrix(0.26458333,0,0,0.26458333,-21.33925,207.79769)"
        id="text32615"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect32617)"><tspan
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect32617);"><tspan
          x="812.59766"
-         y="278.72266"
-         id="tspan1444">7</tspan></text>
+         y="278.72266"><tspan>7</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-21.34548,192.79562)"
+       transform="matrix(0.26458333,0,0,0.26458333,-21.34548,207.79562)"
        id="text35459"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect35461)"><tspan
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect35461);"><tspan
          x="907.08594"
-         y="278.72266"
-         id="tspan1446">8</tspan></text>
+         y="278.72266"><tspan>8</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text24602"
-       style="font-family:sans-serif;font-size:16px;line-height:1.25;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect24604)" />
+       style="font-family:sans-serif;font-size:16px;line-height:1.25;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect24604);" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 34.999998,280 V 270 H 230 v 10"
+       id="path1115" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.00157;stroke-opacity:1"
+       id="rect1125"
+       width="15"
+       height="15"
+       x="125"
+       y="250" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,65.13788,184.56354)"
+       id="text1129"
+       style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1131);"><tspan
+         x="245.66992"
+         y="283.44138"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">N</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1141"
+       style="font-size:4.23333px;line-height:5px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1143);"
+       transform="translate(105.18614,135.06821)"><tspan
+         x="5"
+         y="248.59967"><tspan>Shifts: 1
+</tspan></tspan><tspan
+         x="5"
+         y="253.59967"><tspan>Shift Probability: 1/N
+</tspan></tspan><tspan
+         x="5"
+         y="258.59967"><tspan>Kozak: 0
+</tspan></tspan><tspan
+         x="5"
+         y="263.59967"><tspan>Kozak Probability 0/N
+</tspan></tspan><tspan
+         x="5"
+         y="268.59967"><tspan>Chains : 2
+</tspan></tspan></text>
   </g>
 </svg>
