@@ -8,7 +8,6 @@
 - conda activate clustering
 - R
 - install.packages('IRkernel')
-- install.packages('IRkernel')
 - IRkernel::installspec()
 - q()
 - jupyter labextension install @techrah/text-shortcuts
