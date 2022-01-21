@@ -4,21 +4,9 @@
 
 - conda config --add channels bioconda
 - conda config --add channels conda-forge
-- conda create -n clustering jupyterlab jupyter-resource-usage jupyterlab-git jupyterlab-fasta r-base=4.1.2 pandas numpy scipy biopython umap-learn hdbscan scikit-learn nodejs raxml mafft
+- conda create -n clustering jupyterlab jupyter-resource-usage jupyterlab-git jupyterlab-fasta pandas numpy scipy biopython umap-learn hdbscan scikit-learn nodejs tqdm raxml mafft r-base r-irkernel r-tidyverse r-plotly r-ggstar bioconductor-ggtree bioconductor-ggtreeextra
 - conda activate clustering
-- R
-- install.packages('IRkernel')
-- IRkernel::installspec()
-- q()
-- jupyter labextension install @techrah/text-shortcuts
-- R
-- install.packages('tidyverse')
-- install.packages('BiocManager')
-- BiocManager::install('ggtree')
-- BiocManager::install('ggtreeExtra')
-- install.packages('plotly')
-- install.packages('viridis')
-- q()
+- jupyter lab
 
 ## Pipeline
 
