@@ -1,6 +1,8 @@
 # Influenza
 
-## Preparations
+## Environment recreation
+
+### From scratch
 
 - conda config --add channels bioconda
 - conda config --add channels conda-forge
@@ -8,7 +10,13 @@
 - conda activate clustering
 - jupyter lab
 
-## Pipeline
+### From yaml
+
+- conda env create -f environment.yml
+- conda activate clustering
+- jupyter lab
+
+## Pipeline execution
 
 Nearly fully automated as of 2022/01/19 in two Juyter Notebooks.
 
