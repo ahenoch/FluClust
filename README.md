@@ -2,17 +2,7 @@
 
 ## Environment recreation
 
-### From scratch
-
-- conda config --add channels bioconda
-- conda config --add channels conda-forge
-- conda create -n clustering jupyterlab jupyter-resource-usage jupyterlab-git jupyterlab-fasta pandas numpy scipy biopython umap-learn hdbscan scikit-learn nodejs tqdm raxml mafft r-base r-irkernel r-tidyverse r-plotly r-ggstar bioconductor-ggtree bioconductor-ggtreeextra
-- conda activate clustering
-- jupyter lab
-
-### From yaml
-
-- conda env create -f environment.yml
+- conda env create -f clustering.yml
 - conda activate clustering
 - jupyter lab
 
