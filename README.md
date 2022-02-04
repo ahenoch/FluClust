@@ -8,7 +8,7 @@
 - jupyter lab
 
 ### Manual Install
-- mamba create -n clustering jupyterlab jupyter-resource-usage jupyterlab-git jupyterlab-fasta jupyterlab-lsp pandas numpy scipy biopython hdbscan scikit-learn nodejs tqdm kneed rpy2 python-lsp-server r-languageserver raxml mafft r-base r-irkernel r-tidyverse r-plotly r-ggstar bioconductor-ggtree bioconductor-ggtreeextra r-phangorn bioconductor-tanggle
+- mamba create -n clustering jupyterlab jupyter-resource-usage jupyterlab-git jupyterlab-fasta jupyterlab-lsp pandas numpy scipy biopython hdbscan scikit-learn nodejs tqdm kneed rpy2 python-lsp-server r-languageserver raxml mafft r-base r-irkernel r-tidyverse r-plotly r-ggstar bioconductor-ggtree bioconductor-ggtreeextra r-phangorn bioconductor-tanggle (r-svglite)
 - conda activate clustering
 - jupyter lab
 
